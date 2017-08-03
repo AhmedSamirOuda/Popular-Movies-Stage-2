@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P2-Popular-Movies-Stage2</string>
+    <string name="title_activity_detail">Movie Details </string>
+    <string name="action_sort_by">View my</string>
+    <string name="action_sort_by_popularity">Most Popular movies</string>
+    <string name="action_sort_by_rating">Top rate movies</string>
+    <string name="action_sort_by_favorite">Favorites movies</string>
+    <string name="action_favorite">Favorites</string>
+    <string name="app_auther">com.example.ahmed.p2_popularmoviesstage2.app</string>
+</resources>

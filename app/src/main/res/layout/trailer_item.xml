@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/movie_detail_trailers_height"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/imageOFtrailre"
+        android:layout_width="100dp"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/nameOftrailer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="12dp"
+        android:paddingLeft="7dp"
+        android:paddingTop="45dp"
+        android:layout_toRightOf="@id/imageOFtrailre"
+        android:textColor="@android:color/black"
+        android:textStyle="bold" />
+
+</RelativeLayout>
